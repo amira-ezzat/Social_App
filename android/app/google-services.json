@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179827471301",
+    "project_id": "social-3500e",
+    "storage_bucket": "social-3500e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179827471301:android:330525179a839db16011ac",
+        "android_client_info": {
+          "package_name": "com.example.social_chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNCYBE2IOC9KxLhXfh3XvQX6FZAl5tfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
